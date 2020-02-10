@@ -4,7 +4,7 @@
 ```python
 
 Run KAFKA ZOOKEEPER on default properties
-Run KAFKA Server on default properties
+Run KAFKA SERVER on default properties
 ```
 
 
